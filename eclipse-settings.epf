@@ -1,4 +1,4 @@
-#Sat Oct 01 18:26:23 JST 2016
+#Sat Oct 01 21:48:43 JST 2016
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_after_label=do not insert
 /instance/com.adobe.flexide.as.core/asASDocColor=\#586E75
@@ -150,7 +150,6 @@
 /instance/org.eclipse.dltk.ruby.ui/DLTK_string=42,161,152
 /instance/com.adobe.flexide.css.core/cssCommentItalic=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_assignment=0
-/instance/org.eclipse.ui.editors/PHPReadOccurrenceIndicationColor=236,231,213
 /instance/org.eclipse.php.formatter.core/org.eclipse.php.formatter.core.formatter.insert_space_before_colon_in_default=false
 /instance/org.eclipse.php.formatter.core/org.eclipse.php.formatter.core.formatter.insert_space_after_opening_bracket_in_array_reference=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.localSuffixes=
@@ -175,7 +174,6 @@
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.BasicSemanticHighlightGenerator.AS3.Class_enabled=true
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.StaticFieldHighlighting.enabled=true
 /instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.javadoclocations.migrated=true
-/instance/org.eclipse.ui.editors/currentIPColor=238,232,213
 @org.eclipse.core.net=1.2.300.v20141118-1725
 /instance/org.springframework.ide.eclipse.boot.wizard/org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
 /instance/org.eclipse.php.formatter.core/org.eclipse.php.formatter.core.formatter.insert_space_before_arrow_in_array_creation=true
@@ -533,7 +531,6 @@
 /instance/goclipse/syntax_highlighting_string_color=42,161,152
 @org.eclipse.egit.core=4.1.1.201511131810-r
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.DeprecatedHighlighting.enabled=true
-/instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
 /instance/org.sweetlemonade.eclipse.json/colorArrayBracket=101,122,129
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldSuffixes=
 /instance/ccw.core/ccw.preferences.editor_color.callableSPECIAL_FORM.bold=false
@@ -555,7 +552,6 @@
 /instance/ccw.core/ccw.preferences.editor_color.callableSPECIAL_FORM.italic=false
 /instance/org.eclipse.jdt.ui/proposalOrderMigrated=true
 /instance/org.eclipse.php.formatter.core/org.eclipse.php.formatter.core.formatter.insert_space_before_colon_in_conditional=true
-/instance/org.eclipse.ui.editors/searchResultIndicationColor=236,231,213
 /instance/ccw.core/ccw.preferences.editor_color.symbol.bold=false
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_this_for_non_static_method_access=false
 /instance/org.cfeclipse.cfml/currentLineColor=238,232,213
@@ -726,7 +722,6 @@
 /instance/org.python.pydev/EDITOR_MATCHING_BRACKETS_STYLE=0
 /instance/org.eclipse.wst.sse.ui/hoverModifiers=combinationHover|true|0;problemHover|false|0;documentationHover|false|0;annotationHover|true|Shift;
 /instance/com.puppetlabs.geppetto.module.dsl.Module/com.puppetlabs.geppetto.module.dsl.Module.syntaxColorer.tokenStyles.number.color=42,161,152
-/instance/org.eclipse.ui.editors/secondaryIPColor=238,232,213
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_type_arguments=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentPrefixes=
 /instance/com.powerflasher.fdt.ui/JAVADOC_color_italic=false
@@ -876,7 +871,6 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.comment.indent_root_tags=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_angle_bracket_in_type_parameters=do not insert
 /instance/com.adobe.flexide.as.core/asCommentBold=false
-/instance/org.eclipse.ui.editors/occurrenceIndicationColor=236,231,213
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.XMLAttributeValue_enabled=true
 /instance/org.cloudsmith.geppetto.pp.dsl.PP/org.cloudsmith.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.doc_h2.color=88,110,117
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_binary_expression=16
@@ -1074,7 +1068,6 @@
 /instance/net.vtst.ow.eclipse.less.Less/net.vtst.ow.eclipse.less.Less.syntaxColorer.tokenStyles.MEDIA_QUERY_KEYWORD.color=181,137,0
 /instance/org.eclipse.dltk.tcl.ui/tcl_variable_bold=false
 /instance/com.powerflasher.fdt.ui/JAVADOC_LINK_color_bold=true
-/instance/org.eclipse.ui.editors/matchingTagIndicationColor=236,231,213
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.keep_else_statement_on_same_line=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.brace_position_for_block=end_of_line
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_in_empty_annotation_declaration=insert
@@ -1171,7 +1164,7 @@
 /instance/org.eclipse.php.formatter.core/org.eclipse.php.formatter.core.formatter.disabling_tag=@formatter\:off
 /instance/org.eclipse.jst.jsp.ui/commentText=\#586E75 | null | null | true | null | null
 /instance/org.eclipse.php.formatter.core/org.eclipse.php.formatter.core.formatter.insert_space_before_closing_paren_in_cast=false
-/instance/org.eclipse.ui.editors/currentLineColor=254,239,211
+/instance/org.eclipse.ui.editors/currentLineColor=238,232,213
 /instance/org.springsource.ide.eclipse.dashboard.ui/org.springsource.ide.eclipse.dashboard.uidashboard.startup=false
 /instance/com.powerflasher.fdt.ui/JAVADOC_LINK_color_strikethrough=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.wrap_outer_expressions_when_nested=true
@@ -1255,12 +1248,9 @@
 /instance/org.eclipse.jst.jsp.ui/jsp_content=\#657A81 | null | null | null | null | null
 /instance/eclihx.ui/hx_editor_brace_color=101,122,129
 /instance/org.eclipse.jdt.ui/spelling_locale_initialized=true
-/instance/org.eclipse.ui.editors/PHPWriteOccurrenceIndicationColor=236,231,213
 /instance/jp.gr.java_conf.ussiy.app.propedit/keyColor=101,122,129
 /instance/org.scala-ide.sdt.core/syntaxColoring.semantic.trait.color=101,122,129
 /instance/org.eclipse.php.formatter.core/org.eclipse.php.formatter.core.formatter.insert_space_after_coloncolon_in_field_access=false
-/instance/org.eclipse.ui.editors/deletionIndicationColor=101,122,129
-/instance/org.eclipse.ui.editors/writeOccurrenceIndicationColor=236,231,213
 /instance/com.dubture.twig.ui/editorColorNumber=\#2AA198 | null | null | null | null | null
 /instance/net.sourceforge.texlipse/def.BibColor=101,122,129
 /instance/org.eclipse.dltk.tcl.ui/DLTK_class_definition_underline=false
@@ -1520,7 +1510,7 @@
 /instance/org.cfeclipse.cfml/SQLStringColor=42,161,152
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_comma_in_for_inits=do not insert
 /instance/org.eclipse.php.formatter.core/org.eclipse.php.formatter.core.formatter.indentation.size=4
-/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionBackground=236,231,213
+/instance/org.eclipse.ui.editors/AbstractTextEditor.Color.SelectionBackground=201,201,201
 /instance/org.eclipse.ui.editors/showCarriageReturn=false
 /instance/org.eclipse.jdt.ui/sp_cleanup.never_use_blocks=false
 /instance/net.sourceforge.texlipse/def.TexColor=101,122,129
@@ -1651,7 +1641,6 @@
 /instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.color=101,122,129
 /instance/net.sf.eclipsefp.haskell.ui/pragmaColor=88,110,117
 /instance/org.eclipse.debug.ui/preferredTargets=default\:default|default,org.chromium.debug.ui.toggleTargetId\:default|
-/instance/org.eclipse.ui.editors/javaScriptOccurrenceIndicationColor=236,231,213
 /instance/ccw.core/ccw.preferences.editor_color.JAVA_INSTANCE_METHOD.enabled=true
 /instance/org.springframework.ide.eclipse.boot.wizard/org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=1.4.0.RELEASE
 /instance/org.eclipse.wst.html.ui/doctypeName=\#657A81 | null | null | null | null | null
@@ -2118,7 +2107,6 @@ file_export_version=3.0
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.InternalClassHighlighting.color=\#657A81
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.brace_position_for_enum_constant=end_of_line
 /instance/org.scala-ide.play2/syntaxColouring.xml.cdata.colour=147,161,161
-/instance/org.eclipse.jdt.ui/content_assist_proposals_foreground=0,0,0
 /instance/org.cloudsmith.geppetto.pp.dsl.PP/org.cloudsmith.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.doc_h5.color=88,110,117
 /instance/org.epic.perleditor/printMarginColor=88,110,117
 /instance/org.scala-ide.sdt.core/syntaxColouring.xml.tagName.colour=101,122,129
@@ -2136,7 +2124,6 @@ file_export_version=3.0
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLStyleName_enabled=true
 /instance/org.python.pydev/SELF_COLOR=181,137,0
 /instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Consolas|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
-/instance/org.eclipse.ui.editors/filteredSearchResultIndicationColor=236,231,213
 /instance/net.sourceforge.texlipse/slc.BibColor=147,161,161
 /instance/org.chromium.debug.ui/color_keyword=181,137,0
 /instance/org.eclipse.jdt.ui/sp_cleanup.always_use_blocks=true
