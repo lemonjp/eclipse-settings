@@ -1,4 +1,4 @@
-#Sat Oct 01 18:15:38 JST 2016
+#Sat Oct 01 18:26:23 JST 2016
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_after_label=do not insert
 /instance/com.adobe.flexide.as.core/asASDocColor=\#586E75
@@ -1171,7 +1171,7 @@
 /instance/org.eclipse.php.formatter.core/org.eclipse.php.formatter.core.formatter.disabling_tag=@formatter\:off
 /instance/org.eclipse.jst.jsp.ui/commentText=\#586E75 | null | null | true | null | null
 /instance/org.eclipse.php.formatter.core/org.eclipse.php.formatter.core.formatter.insert_space_before_closing_paren_in_cast=false
-/instance/org.eclipse.ui.editors/currentLineColor=251,240,191
+/instance/org.eclipse.ui.editors/currentLineColor=254,239,211
 /instance/org.springsource.ide.eclipse.dashboard.ui/org.springsource.ide.eclipse.dashboard.uidashboard.startup=false
 /instance/com.powerflasher.fdt.ui/JAVADOC_LINK_color_strikethrough=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.wrap_outer_expressions_when_nested=true
